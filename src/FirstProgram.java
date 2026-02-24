@@ -3,3 +3,7 @@ public class FirstProgram {
         System.out.println("Hello, World!");
     }
 }
+
+/* Output:
+Hello, World!
+ */
